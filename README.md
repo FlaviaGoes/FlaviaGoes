@@ -1,4 +1,4 @@
-### Olá!! Me chamo Flavia Goes
+### Olá!! Me chamo Flavia Moreira Goes
 
 - 🔭 Desbravando o Mundo da Tecnologia
 - 👩🏻‍💻 Curso Análise e Desenvolvimento de Sistemas
