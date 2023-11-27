@@ -2,7 +2,6 @@
 
 - 🔭 Desbravando o Mundo da Tecnologia
 - 👩🏻‍💻 Curso Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
 ##
 
 <div> 
